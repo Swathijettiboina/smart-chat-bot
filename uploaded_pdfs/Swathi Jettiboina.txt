@@ -1,0 +1,46 @@
+SWATHI JETTIBOINA 
+Prakasam,523228 | +91-9398796843 | swathiijettiboina976@gmial.com | www.linkedin.com/in/swathi-jettiboina-252382250/ 
+OBJECTIVE 
+With a strong foundation in Java, full-stack development, and computer fundamentals, I have 
+expertise in machine learning, deep learning, and image processing. I have built projects like a CNN-based 
+signature forgery detection system and a full-stack blog application. Actively contributing to the tech 
+community, I have organized events, volunteered, and participated in hackathons like Flipkart GRiD 5.0. I 
+strive to innovate and develop impactful solutions in a dynamic environment. 
+PROJECTS 
+1.BLOG BOOST – FULL‐STACK BLOG APPLICATION  
+ 
+ 
+            | JAN 2024 – PRESENT 
+· Built a React, Node.js, Express, MongoDB blogging application with CRUD operations. 
+· Added real-time likes, comments, and a responsive UI with Tailwind CSS. 
+· Used React hooks, Lucide React, and Vite for performance and scalability. 
+2. SIGNATURE FORGERY DETECTION USING CNN AND DEEP LEARNING             | DEC 2023 ‐ APR 2024 
+· Developed a system using CNN and VGG16 for detecting signature forgery. 
+· Compared VGG16, basic CNN, and a hybrid model to enhance accuracy. 
+· Utilized Machine Learning, Deep Learning, Image Processing, and OpenCV. 
+· Worked with a dataset of approximately 1200 images which was created by the Team Members. 
+3. REAL TIME FACIAL RECOGNITION ATTENDANCE SYSTEM  
+ 
+          | JUN 2023 ‐ NOV 2023 
+· Implemented a Python-based system using OpenCV for real-time face detection and recognition. 
+· Utilized advanced Computer Vision and Facial Recognition algorithms. 
+· Accurately stored student attendance records, reducing manual errors with the help of automation. 
+· Enhanced the efficiency and accuracy of attendance tracking. 
+**OTHER PROJECTS:  
+· ATM interface design using java Abstract Window Toolkit  and Swing Package. 
+· Chat Bot using Botpress, aimig to collect the feedback from workshop participants. 
+· Employee salary Prediction based on experience Machine learning model using Linear Regression.  
+EDUCATION 
+· Bachelor of Technology In Computer Science And Engineering With 9.14 CGPA (up to 7th semester), 
+Maharaj Vijayaram Gajapathi Raj College of Engineering, Vizianagaram 
+ 
+‐2021‐2025 
+· Intermediate In Maths, Physiscs, Chemistry With 97.6% NRI Junior College , Guntur.             ‐2019‐2021 
+SKILLS & CERTIFICATIONS 
+· Programming Skills : Java, Python,  Data Structures and Algorithms, Debugging, Problem Solving 
+· Web Development : HTML, CSS, Javascript, React, Node, Express 
+· Database Management : SQL,MonogDB, Database Administration 
+· Version Control & Dev Tools : Git, GitHub, VS Code, Colaboratory Notebook 
+· Data Analysis & Machine Learning : AI & ML, Classification, Regression, Image Processing, Basics of 
+Neural Networks and Deep Learning (OpenCV) 
+· Certifications : Cloud computing , Leadership and Team Effectiveness (NPTEL),Machine Learning(AWS) 
