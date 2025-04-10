@@ -7,7 +7,7 @@ supabase
 google-generativeai
 webdriver-manager
 torch
-urllib2
+# urllib
 requests
 beautifulsoup4
 pandas
